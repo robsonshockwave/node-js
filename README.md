@@ -2,7 +2,7 @@
 
 ## 💻 Sobre o projeto
 
-Projeto com arquivos que há conceitos sobre NodeJS.
+Projeto com arquivos em que há conceitos sobre NodeJS.
 
 ✑ Exemplificação de:
 
