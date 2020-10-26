@@ -22,3 +22,4 @@ fs.readdir(__dirname, (err, arquivos) => { //vai pegar inteira do projeto
     console.log('Conteúdo da pasta...')
     console.log(arquivos)
 })
+//-------------------------------------------------
